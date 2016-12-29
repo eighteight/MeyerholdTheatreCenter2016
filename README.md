@@ -21,6 +21,6 @@ The following is the list of the exercises (only some of them are solved in the 
 13. Using rotary encoder and Arduino, create a dynamic projection mapping of a rotating object.
 
 
-Snapshot of the interactive video installation “Star Wars” built based on the exercise 4 plus live stream from ISS and video shot from a drone in Donbass
+Installation "Light My Self"
 
-![Preview](https://raw.github.com/eighteight/MeyerholdTheatreCenter2014/master/light-my-self.jpg)
+![Preview](https://github.com/eighteight/MeyerholdTheatreCenter2016/blob/master/light-my-self.jpg?raw=true)
