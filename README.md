@@ -23,4 +23,4 @@ The following is the list of the exercises (only some of them are solved in the 
 
 Snapshot of the interactive video installation “Star Wars” built based on the exercise 4 plus live stream from ISS and video shot from a drone in Donbass
 
-![Preview](https://raw.github.com/eighteight/MeyerholdTheatreCenter2014/master/star-wars-interactive-videoinstallation.jpg)
+![Preview](https://raw.github.com/eighteight/MeyerholdTheatreCenter2014/master/light-my-self.jpg)
