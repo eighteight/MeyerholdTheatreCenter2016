@@ -1,4 +1,4 @@
-This is a repository for the Engineering Art in Theatre course read at the Meyerhold Theatre Center in 2014
+This is a repository for the Engineering Art in Theatre course read at the Meyerhold Theatre Center in 2016
 
 This course consists of two parts Theoretical and Experimental.
 
